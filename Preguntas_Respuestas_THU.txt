@@ -1,0 +1,149 @@
+Task1 Caza en la Jungla
+
+Tú y tu grupo fueron secuestrados en circunstancias desconocidas y llevados a lo más profundo de una selva inexplorada. No hay señales de civilización, solo ruinas cubiertas de maleza y extrañas estructuras que no parecen humanas. A su alrededor, otros prisioneros han desaparecido, uno por uno, dejando solo rastros de sangre y equipo abandonado.
+
+Lo peor de todo es que no están solos. En la oscuridad, entre la niebla y la maleza, algo los observa. Algo que disfruta de la caza.
+
+Los Predators han convertido la jungla en su campo de entrenamiento. Y ustedes son el objetivo.
+
+El Punto de Infiltración: La Terminal Abandonada
+
+Tras horas de exploración y desesperación, encuentran un búnker oculto entre la vegetación. Es viejo, de diseño humano, pero claramente ha sido reutilizado por los Predators.
+
+Junto al búnker hay una nave antigua, olvidada, casi cubierta de maleza. En el interior del búnker se encuentran cables rotos y pantallas cubiertas de polvo, pero hay un ordenador antiguo. No parece mucho, pero es funcional.
+
+Si logran conectarse a los sistemas de los Predators, tal vez puedan descubrir qué está pasando y, con suerte, idear un plan de escape.
+
+
+Task2  Dtai'kai'-dte
+
+¿Cuantos puertos estan cerrados?
+
+65533
+
+¿En que puerto se esta iniciando el servicio SSH?
+
+22
+
+¿Cual es su versión?
+
+OpenSSH 8.9p1 Ubuntu 3ubuntu0.13
+
+¿De cuanto es su TTL?
+
+63
+
+¿Qué otro puerto se encuentra abierto?
+
+80
+
+¿Qué servicio hay?
+
+HTTP
+
+¿Cuál es su versión?
+
+Apache httpd 2.4.52
+
+Task3 H'dlak
+
+¿Cual es el nombre de la web?
+
+Yautja Infiltration Point
+
+¿Cual es la flag?
+
+SGludDogVGhlIGFkbWluIHRlcm1pbmFsIGlzIGxpc3RlbmluZy4uLiB0cnkgYWRtaW4ueWF1dGphLmxvY2Fs
+
+¿En que codificación se encuentra?
+
+Base64
+
+¿Cual es el texto plano?
+
+admin.yautja.local
+
+¿Que encontraste?
+
+Vhost
+
+¿Cual es el nombre de la pagina?
+
+Yautja Predator System
+
+¿En que estaba cifrada?
+
+Base64
+
+¿Qué encontraste en el directorio?
+
+Check the files
+
+¿Qué cifrado se encuentra el comentario?
+
+ROT47
+
+¿Cual es el usuario para acceder al host?
+
+Alan
+
+¿Cual es su contraseña?
+
+hunter123
+
+Task4  Hult'ah 
+
+¿A que ruta accedistes?
+
+/home/alan
+
+¿Cuantos archivos se encuentra desperdigados en el sistema?
+
+6
+
+¿Qué mensaje te esta dando?
+
+HELPME
+
+¿Qué hay dentro de los archivos?
+
+with my digital key you enter a username is your nickname the password s3cr3t01987
+
+¿Qué mensaje se muestra por pantalla cuando se completa Dutch?
+
+SYSTEM YAUTJA HACKED
+
+¿Cuantos puertos estan cerrados?
+
+65531
+
+¿Qué se encuentra en la BBDD?
+
+george/gettothechoppa
+
+¿Qué puerto se usa para acceder al servicio SSH?
+
+2222
+
+Task5  Thei-de
+
+¿Qué tipo de vulnerabilidad hay?
+
+socket
+
+Task6  Ell-osde' pauk
+
+¿Cual es la flag final?
+
+THU{Escape_of_the_jungle}
+
+
+
+
+
+
+
+
+
+
+
