@@ -1,4 +1,4 @@
-Task1 Caza en la Jungla
+### Task1 Caza en la Jungla
 
 Tú y tu grupo fueron secuestrados en circunstancias desconocidas y llevados a lo más profundo de una selva inexplorada. No hay señales de civilización, solo ruinas cubiertas de maleza y extrañas estructuras que no parecen humanas. A su alrededor, otros prisioneros han desaparecido, uno por uno, dejando solo rastros de sangre y equipo abandonado.
 
@@ -15,7 +15,7 @@ Junto al búnker hay una nave antigua, olvidada, casi cubierta de maleza. En el 
 Si logran conectarse a los sistemas de los Predators, tal vez puedan descubrir qué está pasando y, con suerte, idear un plan de escape.
 
 
-Task2  Dtai'kai'-dte
+### Task2  Dtai'kai'-dte
 
 ¿Cuantos puertos estan cerrados?
 
@@ -45,7 +45,7 @@ HTTP
 
 Apache httpd 2.4.52
 
-Task3 H'dlak
+### Task3 H'dlak
 
 ¿Cual es el nombre de la web?
 
@@ -91,7 +91,7 @@ Alan
 
 hunter123
 
-Task4  Hult'ah 
+### Task4  Hult'ah 
 
 ¿A que ruta accedistes?
 
@@ -125,13 +125,13 @@ george/gettothechoppa
 
 2222
 
-Task5  Thei-de
+### Task5  Thei-de
 
 ¿Qué tipo de vulnerabilidad hay?
 
 socket
 
-Task6  Ell-osde' pauk
+### Task6  Ell-osde' pauk
 
 ¿Cual es la flag final?
 
